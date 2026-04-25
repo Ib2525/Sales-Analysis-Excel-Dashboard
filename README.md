@@ -20,19 +20,19 @@ This project is an end-to-end interactive Excel dashboard designed to analyze sa
 
 ### 1️⃣ Executive Summary (Main View)
 *Interactive view filtering sales and orders by sub-category, region, and shipping mode using dynamic slicers.*
-![Main Dashboard](Screenshot%202.png)
+![Main Dashboard](main.png)
 
 ### 2️⃣ Trend Analysis & Performance
 *In-depth look at Sales vs. Orders trends and regional contributions.*
-![Trend Analysis](Screenshot%201.png)
+![Trend Analysis](trend.png)
 
 ### 3️⃣ Geographical & Customer Insights
 *Detailed breakdown of profit by shipping mode, state-level sales distribution (Map), and top performing customers.*
-![Geo & Customers](Screenshot%203.png)
+![Geo & Customers](geo.png)
 
 ### ⚙️ Behind the Scenes (Data Modeling)
 *The robust backend powering the dashboard, utilizing interconnected Pivot Tables and optimized data models to ensure fast and accurate filtering.*
-![Pivot Tables](Screenshot%204.png)
+![Pivot Tables](pivot.png)
 
 ---
 
